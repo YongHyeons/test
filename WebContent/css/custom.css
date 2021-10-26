@@ -1,0 +1,29 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@import url(http://fonts.googleapis.com/earlyaccess/hanna.css);
+* {
+	font-family : 'Nanum Gothic';
+}
+h1 {
+	font-family : 'Hanna';
+}
+#hh{
+	background-color : #5e6b9e;
+	font-weight: bold;
+	z-index: 1;
+	position:fixed;
+	width:100%;
+	top:0;
+	left:0;
+}
+img {
+	width: 100%;
+	height: auto;
+	object-fit: cover;
+}
+#myCarousel {
+	width: 100%;
+	height: auto;
+}
+body {
+	background-color: #ffffff;
+}
